@@ -1,0 +1,6 @@
+PyYaml
+tabula-py
+tabulate
+jpype1
+requests
+boto3
