@@ -1,0 +1,33 @@
+## PROJET TITLE: Multinational Retail Data Centralisation.
+
+# This projet aims to centralised data in one single location from multiples sources. At first glance the projet looked straight forword but as we go through instalation process and instructions, things get harder and some could not be completed despited various support requests made.
+
+Table Of Contents:
+  Python files under __pycache__
+  - data_extraction.py
+  - data_cleaning.py 
+  - database_utils.py
+  - execution_file.py
+Other files:
+  
+ - scr
+
+  README
+  venv
+ - .gitignore
+ - db_creds.yaml
+ requirements.txt
+ 
+
+As stated above, this Multinational Retail Data Centralisation Project centralised data from different sources and acts as a single source of truth for sales data.
+We use pip to install needed modules following the instructions.
+You can navigate through this project by accessing every file to read the the code associated to it.
+
+PIPELINE Dependecies: 
+ Python 3.11.5
+ Libraries used:
+ To install all the pakages, execute this line in the terminal.
+ ```python3.11 -m pip install -r requirements.txt```
+
+
+License information: 

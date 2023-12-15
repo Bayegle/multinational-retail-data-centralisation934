@@ -19,14 +19,16 @@ class DataCleaning:
 
     def clean_card_data(df):
         """ clean data and returns a dataframe"""
-        df.dropna()
+        cleaned_df = df.dropna() 
+
+        #df.dropna()
 
         return df
 
 
     def called_clean_store_data(df):
-        # clean data 
         df.dropna()
+        # clean data
         return df
 
 
